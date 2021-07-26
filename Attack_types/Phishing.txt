@@ -1,0 +1,8 @@
+Phishing - type of social engeniering attack. Attacker is convincing the target to provide some private or sensitive data. Fex.: 
+-fake website
+    Attacker creates website very simmmilar to original (bank login website or social media login) with slightly changed link.
+-phishing via phone or sms (target clicks a link).
+    Attacker cat create malicious sms (looking just like normal with spoofed caller id) with link for target to click.
+-using target's social media  
+    Attacker can use target's social media to gether information about the target. He can use it to form more reliable phishing emails or sms
+
