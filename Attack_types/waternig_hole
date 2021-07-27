@@ -1,0 +1,12 @@
+Watering hole attack - it involves third-party system. Attacker hopes that users of your secure network will visit the third-party (watering hole), 
+get infected and give attacker a way to network.
+
+Executing the watering hole attack:
+    -attaker have to do reserch and determinate which websites the victim group uses.
+    -attacker infects one of these  third-party sites. 
+    -infected site infects all visitors.
+
+How to prevent?:
+    -Defens-in-depth
+    -Firewall and IPS
+    -Anit-virus/Anti-malware signature updates
