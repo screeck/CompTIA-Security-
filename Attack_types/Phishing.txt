@@ -6,3 +6,4 @@ Phishing - type of social engeniering attack. Attacker is convincing the target 
 -using target's social media  
     Attacker can use target's social media to gether information about the target. He can use it to form more reliable phishing emails or sms
 
+
