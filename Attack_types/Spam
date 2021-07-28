@@ -1,0 +1,10 @@
+Spam - unsolicited messages (comercial usage, phishing attempt).
+How identifying spam works?:
+    -allowed lists
+        Only emails from trusted senders
+    -SMTP standards checking
+        Block anything that doesn't follow RFC standards
+    -rDNS - reverse DNS 
+        Block email where the sender's domain  doesn't match  the IP address
+    -Tarpitting
+        Intentionally slow down the server conversation   
