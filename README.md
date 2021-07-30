@@ -5,4 +5,6 @@ My study notes for CompTIA Security+ based on professor Messer's course:
 
 Feel free to correct my work.
 
+I will add some markdown to make it look clean in the near future.
+
 Follow my twitter for updates: _screecks
