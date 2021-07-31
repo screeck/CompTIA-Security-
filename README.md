@@ -7,4 +7,4 @@ Feel free to correct my work.
 
 I will add some markdown to make it look clean in the near future.
 
-Follow my twitter for updates: _screecks
+Follow my twitter for updates: _screeck
