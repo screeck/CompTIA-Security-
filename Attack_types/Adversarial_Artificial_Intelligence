@@ -1,0 +1,11 @@
+Machine learning - Computers are getting smarter. Thay can identify patterns in data and improve their predictions. 
+It requiers a lot of data to train our computer.
+In use every day:
+    Stop spam
+    Recomend products 
+    Prevent car accidents
+    Recognize faces
+
+Poisoningthe the training data
+
+Attacker can send modified training data that couse the AI to behave incorrectly 
